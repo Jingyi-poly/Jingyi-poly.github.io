@@ -20,6 +20,5 @@ My research focuses on developing advanced optimization algorithms and machine l
 ## Contact
 
 - **Email**: [zhaojingyi@cuhk.edu.cn](mailto:zhaojingyi@cuhk.edu.cn)
-- **Phone**: +86 185-0431-9009
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=YkPRtnoAAAAJ&hl=en)
 - **GitHub**: [Jingyi-poly](https://github.com/Jingyi-poly)
