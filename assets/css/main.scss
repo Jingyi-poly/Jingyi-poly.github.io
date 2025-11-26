@@ -1,151 +1,41 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
-search: false
 ---
 
-@charset "utf-8";
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-/* ==========================================================================
-   Custom Style Overrides
-   ========================================================================== */
+@import "reset";
+@import "base";
 
-/* 优化字体大小 */
-html {
-  font-size: 14px; // 默认是 16px，减小到 14px
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-  @include breakpoint($medium) {
-    font-size: 16px; // 中等屏幕
-  }
+@import "forms";
 
-  @include breakpoint($large) {
-    font-size: 16px; // 大屏幕
-  }
+@import "page";
+@import "archive";
+@import "sidebar";
 
-  @include breakpoint($x-large) {
-    font-size: 18px; // 超大屏幕
-  }
-}
-
-/* 优化正文字体大小 */
-body {
-  font-size: 0.95em; // 稍微减小正文字体
-}
-
-/* 优化标题大小 */
-h1 {
-  font-size: 1.8em; // 原来可能是 2em 或更大
-}
-
-h2 {
-  font-size: 1.5em;
-  margin-top: 2em;
-  margin-bottom: 0.8em;
-}
-
-h3 {
-  font-size: 1.25em;
-  margin-top: 1.5em;
-  margin-bottom: 0.6em;
-}
-
-h4 {
-  font-size: 1.1em;
-}
-
-/* 优化页面标题 */
-.page__title {
-  font-size: 1.8em !important;
-  margin-bottom: 1em;
-}
-
-/* 优化正文内容间距 */
-.page__content {
-  p, li {
-    font-size: 1em;
-    line-height: 1.6; // 行高，提高可读性
-  }
-  
-  // 优化段落间距
-  p {
-    margin-bottom: 1em;
-  }
-  
-  // 优化列表样式
-  ul, ol {
-    margin-bottom: 1.5em;
-  }
-  
-  li {
-    margin-bottom: 0.5em;
-  }
-}
-
-/* 优化侧边栏作者信息 */
-.author__avatar {
-  img {
-    max-width: 120px; // 稍微减小头像大小
-  }
-}
-
-.author__name {
-  font-size: 1.2em;
-}
-
-.author__bio {
-  font-size: 0.9em;
-}
-
-/* 优化导航栏 */
-.greedy-nav {
-  font-size: 0.95em;
-}
-
-/* 优化表格样式 */
-table {
-  font-size: 0.9em;
-  
-  th, td {
-    padding: 0.5em 0.8em;
-  }
-}
-
-/* 优化代码块字体 */
-code {
-  font-size: 0.85em;
-}
-
-pre {
-  font-size: 0.8em;
-}
-
-/* 增加内容区域宽度（可选） */
-.page {
-  @include breakpoint($large) {
-    float: left;
-    width: calc(100% - 320px); // 稍微增加内容区域宽度
-    padding-right: 20px;
-  }
-
-  @include breakpoint($x-large) {
-    width: calc(100% - 340px);
-    padding-right: 24px;
-  }
-}
-
-/* 优化移动端显示 */
-@media (max-width: 768px) {
-  html {
-    font-size: 14px;
-  }
-  
-  h1 {
-    font-size: 1.6em;
-  }
-  
-  h2 {
-    font-size: 1.4em;
-  }
-}
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
