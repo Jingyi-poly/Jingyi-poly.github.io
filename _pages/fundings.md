@@ -17,7 +17,7 @@ author_profile: true
 
 ## Total Funding
 
-**Total Budget**: ¥6,800,000 RMB (~$950,000 USD)
+**Total Budget**: 6,800,000 RMB (~$950,000 USD)
 
 ---
 
@@ -26,21 +26,21 @@ author_profile: true
 ### Reservoir Optimization Algorithms (2025-2026)
 - **Role**: Principal Investigator (PI)
 - **Funding Agency**: Shenzhen Water Affairs Bureau
-- **Budget**: ¥1,200,000 RMB
+- **Budget**: 1,200,000 RMB
 - **Duration**: November 2025 - November 2026
 - **Description**: Development of advanced optimization algorithms for reservoir management and water resource allocation.
 
 ### MILP Solver Development (2025-2026)
 - **Role**: Researcher
 - **Funding Agency**: Shenzhen Research Institute of Big Data
-- **Budget**: ¥600,000 RMB
+- **Budget**: 600,000 RMB
 - **Duration**: June 2025 - December 2026
 - **Description**: Research and development of Mixed-Integer Linear Programming (MILP) solvers for large-scale optimization problems.
 
 ### Large-Scale MIP Algorithms (2023-2028)
 - **Role**: Researcher
 - **Funding Agency**: National Key R&D Program of China
-- **Budget**: ¥5,000,000 RMB
+- **Budget**: 5,000,000 RMB
 - **Duration**: January 2023 - January 2028
 - **Description**: Development of algorithms for solving large-scale Mixed-Integer Programming problems with applications in logistics, transportation, and supply chain management.
 
