@@ -243,11 +243,12 @@ pagination:
 
 # Plugins
 plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
-  # - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
-  - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
