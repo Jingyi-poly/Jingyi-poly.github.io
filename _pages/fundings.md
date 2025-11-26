@@ -17,7 +17,7 @@ author_profile: true
 
 ## Total Funding
 
-**Total Budget**: 6,800,000 RMB (~$950,000 USD)
+**Total Budget**: 6,800,000 RMB (950,000 USD)
 
 ---
 
