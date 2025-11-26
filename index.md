@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Jingyi Zhao (赵静怡)"
+title: "Jingyi Zhao 赵婧怡"
 ---
 
 ## About Me
