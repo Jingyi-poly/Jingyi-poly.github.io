@@ -27,7 +27,7 @@ author_profile: true
    *European Journal of Operational Research*, Vol. 308, No. 2, pp. 929-948, 2023. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221722009870)
 
 6. **Jingyi Zhao***, Claudia Archetti, Tuan Anh Pham, Thibaut Vidal. [Large Neighborhood and Hybrid Genetic Search for Inventory Routing Problems](https://arxiv.org/abs/2506.03172).  
-   *Minor Revision at European Journal of Operational Research*, 2025. [[arXiv]](https://arxiv.org/abs/2506.03172) [[PDF]](https://arxiv.org/pdf/2506.03172)
+   *European Journal of Operational Research*, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221725009300)
 
 ### Under Review
 
