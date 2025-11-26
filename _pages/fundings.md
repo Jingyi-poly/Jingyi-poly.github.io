@@ -43,4 +43,3 @@ author_profile: true
 - **Budget**: 5,000,000 RMB
 - **Duration**: January 2023 - January 2028
 - **Description**: Development of algorithms for solving large-scale Mixed-Integer Programming problems with applications in logistics, transportation, and supply chain management.
-
