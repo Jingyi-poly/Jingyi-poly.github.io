@@ -39,7 +39,7 @@ author_profile: true
 **August 2019 - May 2023**
 
 - Dissertation: Advanced algorithms for time-dependent vehicle routing problems
-- Advisor: Prof. Zhenzhen Zhang
+- Advisor: [[Prof. Yeow Meng Chee]](https://ymchee66.github.io) & [[Prof. Vincent Y. F. Tan]](https://vyftan.github.io/)
 - Research focus: Hybrid metaheuristics, dynamic programming, and machine learning for optimization
 - Teaching Assistant for "Modeling for Supply Chain Systems" (2020-2022)
 
