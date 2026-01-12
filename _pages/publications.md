@@ -8,34 +8,31 @@ author_profile: true
 ## Journal Papers
 
 ### Published
+1. Jianhua Xiao, Detian Kong, Zhiguang Cao, **Jingyi Zhao**. [Deep Reinforcement Learning for the Vehicle Routing Problem with Route Balancing.](https://www.sciencedirect.com/science/article/pii/S1366554525006544) *Transportation Research Part E: Logistics and Transportation Review*, 2026.
 
-### Published
-
-1. **Jingyi Zhao***, Claudia Archetti, Tuan Anh Pham, Thibaut Vidal. [Large Neighborhood and Hybrid Genetic Search for Inventory Routing Problems](https://arxiv.org/abs/2506.03172).  
+2. **Jingyi Zhao***, Claudia Archetti, Tuan Anh Pham, Thibaut Vidal. [Large Neighborhood and Hybrid Genetic Search for Inventory Routing Problems](https://arxiv.org/abs/2506.03172).  
    *European Journal of Operational Research*, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221725009300)
 
-2. **Jingyi Zhao**, Zirong Zeng, Yang Liu*. [Electric Vehicle Routing Problem Considering Traffic Conditions and Real-time Loads](https://www.sciencedirect.com/science/article/abs/pii/S0968090X25XXXXX).  
+3. **Jingyi Zhao**, Zirong Zeng, Yang Liu*. [Electric Vehicle Routing Problem Considering Traffic Conditions and Real-time Loads](https://www.sciencedirect.com/science/article/abs/pii/S0968090X25XXXXX).  
    *Transportation Research Part C: Emerging Technologies*, Vol. 176, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0968090X25XXXXX)
 
-3. Kai Yang, Zhenzhen Zhang*, **Jingyi Zhao**, Zhe Liang. [A Neighborhood-based Mathematical Heuristic for the Vehicle Routing Problem with Delivery Options](https://doi.org/10.1016/j.tre.2025.104366).  
+4. Kai Yang, Zhenzhen Zhang*, **Jingyi Zhao**, Zhe Liang. [A Neighborhood-based Mathematical Heuristic for the Vehicle Routing Problem with Delivery Options](https://doi.org/10.1016/j.tre.2025.104366).  
    *Transportation Research Part E: Logistics and Transportation Review*, Vol. 203, 104366, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1366554525XXXXX)
 
-4. **Jingyi Zhao**, Mark Poon, Vincent Y. F. Tan, Zhenzhen Zhang*. [A Hybrid Genetic Search and Dynamic Programming-based Split Algorithm for the Multi-trip Time-dependent Vehicle Routing Problem](https://doi.org/10.1016/j.ejor.2024.04.011).  
+5. **Jingyi Zhao**, Mark Poon, Vincent Y. F. Tan, Zhenzhen Zhang*. [A Hybrid Genetic Search and Dynamic Programming-based Split Algorithm for the Multi-trip Time-dependent Vehicle Routing Problem](https://doi.org/10.1016/j.ejor.2024.04.011).  
    *European Journal of Operational Research*, Vol. 317, No. 3, pp. 921-935, 2024. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221724002923)
 
-5. Weiquan Wang*, **Jingyi Zhao**. [Partial Linear Recharging Strategy for the Electric Fleet Size and Mix Vehicle Routing Problem with Time Windows and Recharging Stations](https://doi.org/10.1016/j.ejor.2022.12.011).  
+6. Weiquan Wang*, **Jingyi Zhao**. [Partial Linear Recharging Strategy for the Electric Fleet Size and Mix Vehicle Routing Problem with Time Windows and Recharging Stations](https://doi.org/10.1016/j.ejor.2022.12.011).  
    *European Journal of Operational Research*, Vol. 308, No. 2, pp. 929-948, 2023. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221722009870)
 
-6. **Jingyi Zhao**, Mark Poon, Zhenzhen Zhang*, Ruixue Gu. [Adaptive Large Neighborhood Search for the Time-dependent Profitable Dial-a-ride Problem](https://doi.org/10.1016/j.cor.2022.105938).  
+7. **Jingyi Zhao**, Mark Poon, Zhenzhen Zhang*, Ruixue Gu. [Adaptive Large Neighborhood Search for the Time-dependent Profitable Dial-a-ride Problem](https://doi.org/10.1016/j.cor.2022.105938).  
    *Computers & Operations Research*, Vol. 147, 105938, 2022. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822001927)
 
 ### Under Review
 
 1. **Jingyi Zhao**, Linxin Yang, Haohua Zhang, Qile He, Tian Ding. "From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization". *Under Revision at ICLR 2026*, 2025.
 
-2. Jianhua Xiao, Detian Kong, Zhiguang Cao, **Jingyi Zhao***. "Deep Reinforcement Learning for the Vehicle Routing Problem with Route Balancing". *1st revision at Transportation Research Part E: Logistics and Transportation Review*, 2024.
-
-3. Yaping Zhao, Xuewen Lei, Xinyue Zhang, **Jingyi Zhao***. "Machine Learning-Enhanced Rolling Horizon Optimization Algorithm for Dynamic Scheduling in AGV-Supported Rice Production". *at Omega*, 2024.
+2. Yaping Zhao, Xuewen Lei, Xinyue Zhang, **Jingyi Zhao***. "Machine Learning-Enhanced Rolling Horizon Optimization Algorithm for Dynamic Scheduling in AGV-Supported Rice Production". *at Omega*, 2024.
 
 ### In Progress
 
