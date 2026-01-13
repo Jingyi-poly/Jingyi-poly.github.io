@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Papers
 
 ### Published
-1. Jianhua Xiao, Detian Kong, Zhiguang Cao, **Jingyi Zhao**. [Deep Reinforcement Learning for the Vehicle Routing Problem with Route Balancing.](https://www.sciencedirect.com/science/article/pii/S1366554525006544) *Transportation Research Part E: Logistics and Transportation Review*, 2026.
+1. Jianhua Xiao, Detian Kong, Zhiguang Cao, **Jingyi Zhao\***. [Deep Reinforcement Learning for the Vehicle Routing Problem with Route Balancing.](https://www.sciencedirect.com/science/article/pii/S1366554525006544) *Transportation Research Part E: Logistics and Transportation Review*, Vol. 208, 2026.
 
 2. **Jingyi Zhao***, Claudia Archetti, Tuan Anh Pham, Thibaut Vidal. [Large Neighborhood and Hybrid Genetic Search for Inventory Routing Problems](https://arxiv.org/abs/2506.03172).  
    *European Journal of Operational Research*, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0377221725009300)
