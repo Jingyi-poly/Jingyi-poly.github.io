@@ -28,31 +28,31 @@ author_profile: true
 7. **Jingyi Zhao**, Mark Poon, Zhenzhen Zhang*, Ruixue Gu. [Adaptive Large Neighborhood Search for the Time-dependent Profitable Dial-a-ride Problem](https://doi.org/10.1016/j.cor.2022.105938).  
    *Computers & Operations Research*, Vol. 147, 105938, 2022. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822001927)
 
+8. **Jingyi Zhao**, Linxin Yang, Haohua Zhang, Qile He, Tian Ding. "From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization". *Accepted at ICLR 2026*, 2026.
+
+9. **Jingyi Zhao**, Haoxiang Yang, Youxuan Pan, Yang Liu. "Wireless Mobile Charging for Emergency Electric Vehicle Routing: A Mixed-Integer and Metaheuristic Framework for In-Motion Energy Transfer". *Accepted for the 24-th Power Systems Computation Conference (PSCC)*, *Special Issue in Electric Power Systems Research*, 2026.
+
 ### Under Review
 
-1. **Jingyi Zhao**, Linxin Yang, Haohua Zhang, Qile He, Tian Ding. "From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization". *Under Revision at ICLR 2026*, 2025.
-
-2. Yaping Zhao, Xuewen Lei, Xinyue Zhang, **Jingyi Zhao***. "Machine Learning-Enhanced Rolling Horizon Optimization Algorithm for Dynamic Scheduling in AGV-Supported Rice Production". *at Omega*, 2024.
+1. Yaping Zhao, Xuewen Lei, Xinyue Zhang, **Jingyi Zhao***. "Machine Learning-Enhanced Rolling Horizon Optimization Algorithm for Dynamic Scheduling in AGV-Supported Rice Production". *at Omega*, 2024.
 
 ### In Progress
 
-1. **Jingyi Zhao**, Youxuan Pan, Haoxiang Yang, Yang Liu*. "Large Neighborhood Search and Bitmask Dynamic Programming for Dynamic Mobile Charging Electric Vehicle Routing Problems in Medical Transportation". 2024-2025.
+1. **Jingyi Zhao**, Kris Braekers, Youxuan Pan, Haoxiang Yang*. "A Mathematical Heuristic Method for Time-Dependent Vehicle Routing Problem Integrating Autonomous Electric Vehicles and Shared Distribution Locations". 2024-2025.
 
-2. **Jingyi Zhao**, Kris Braekers, Youxuan Pan, Haoxiang Yang*. "A Mathematical Heuristic Method for Time-Dependent Vehicle Routing Problem Integrating Autonomous Electric Vehicles and Shared Distribution Locations". 2024-2025.
+2. **Jingyi Zhao**, Haoxiang Yang. "Learning to Generate Lagrangian Cut for Two-stage Stochastic Mixed-integer Programs". 2025.
 
-3. **Jingyi Zhao**, Haoxiang Yang. "Learning to Generate Lagrangian Cut for Two-stage Stochastic Mixed-integer Programs". 2025.
+3. **Jingyi Zhao**, Xianzhi Wu, Daniele Vigo, Zhenzhen Zhang*. "Learning to search in the configuration of s stochastic vehicle routing problem with packing containers under demand uncertainty". 2024-2026.
 
-4. **Jingyi Zhao**, Xianzhi Wu, Daniele Vigo, Zhenzhen Zhang*. "Learning to search in the configuration of s stochastic vehicle routing problem with packing containers under demand uncertainty". 2024-2026.
+4. **Jingyi Zhao**, Hongjun Chen, Bo Tang*. "Combinatorial Optimization and Machine Learning for Multi-stage Stochastic Inventory Routing". 2024-2026.
 
-5. **Jingyi Zhao**, Hongjun Chen, Bo Tang*. "Combinatorial Optimization and Machine Learning for Multi-stage Stochastic Inventory Routing". 2024-2026.
+5. **Jingyi Zhao**, Xiaodong Luo, Juan Chen, Dong Zhang*. "Parallel Evaluation of Large-scale Pickup and Delivery Problem with Time Window". 2024-2026.
 
-6. **Jingyi Zhao**, Xiaodong Luo, Juan Chen, Dong Zhang*. "Parallel Evaluation of Large-scale Pickup and Delivery Problem with Time Window". 2024-2026.
+6. **Jingyi Zhao***, Theo Guyard, Thibaut Vidal. "Large Neighborhood and Hybrid Genetic Search for 2-stage Stochastic Inventory Routing Problem". 2024-2026.
 
-7. **Jingyi Zhao***, Theo Guyard, Thibaut Vidal. "Large Neighborhood and Hybrid Genetic Search for 2-stage Stochastic Inventory Routing Problem". 2024-2026.
+7. Hanrui Ye, **Jingyi Zhao**, Haoxiang Yang*. "Integrated Learning and Optimization of Bidding Strategies in Renewable Energy Electricity Markets". 2024-2025.
 
-8. Hanrui Ye, **Jingyi Zhao**, Haoxiang Yang*. "Integrated Learning and Optimization of Bidding Strategies in Renewable Energy Electricity Markets". 2024-2025.
-
-9. Bo Tang, **Jingyi Zhao**, Elias B. Khalil*, Jan Drgona. "Learning to Optimize for Mixed-Integer Nonlinear Programming". 2024.
+8. Bo Tang, **Jingyi Zhao**, Elias B. Khalil*, Jan Drgona. "Learning to Optimize for Mixed-Integer Nonlinear Programming". 2024.
 
 ---
 
