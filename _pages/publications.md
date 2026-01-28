@@ -28,9 +28,9 @@ author_profile: true
 7. **Jingyi Zhao**, Mark Poon, Zhenzhen Zhang*, Ruixue Gu. [Adaptive Large Neighborhood Search for the Time-dependent Profitable Dial-a-ride Problem](https://doi.org/10.1016/j.cor.2022.105938).  
    *Computers & Operations Research*, Vol. 147, 105938, 2022. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0305054822001927)
 
-8. **Jingyi Zhao**, Linxin Yang, Haohua Zhang, Qile He, Tian Ding. "From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization". *Accepted at ICLR 2026*, 2026.
+8. **Jingyi Zhao**, Linxin Yang, Haohua Zhang, Qile He, Tian Ding. [From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization](https://openreview.net/forum?id=T9FDmsmoBj). *Accepted at ICLR 2026*.
 
-9. **Jingyi Zhao**, Haoxiang Yang, Youxuan Pan, Yang Liu. "Wireless Mobile Charging for Emergency Electric Vehicle Routing: A Mixed-Integer and Metaheuristic Framework for In-Motion Energy Transfer". *Accepted for the 24-th Power Systems Computation Conference (PSCC)*, *Special Issue in Electric Power Systems Research*, 2026.
+9. **Jingyi Zhao**, Haoxiang Yang, Youxuan Pan, Yang Liu. [Wireless Mobile Charging for Emergency Electric Vehicle Routing: A Mixed-Integer and Metaheuristic Framework for In-Motion Energy Transfer](). *Accepted for the 24-th Power Systems Computation Conference (PSCC)*, *Special Issue in Electric Power Systems Research*, 2026.
 
 ### Under Review
 
